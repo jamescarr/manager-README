@@ -27,13 +27,12 @@ Outside of our 1:1s, we'll have a few team meetings. We have a regular team hang
 
 ## My Personal Principles
 
-> “With perfect and unyielding faith,
-
-> With steadfastness, respect, and courtesy,
-
-> With modesty and conscientiousness,
-
-> Work calmly for the happiness of others.” 
+<blockquote>
+“With perfect and unyielding faith, <br>
+With steadfastness, respect, and courtesy, <br>
+With modesty and conscientiousness, <br>
+Work calmly for the happiness of others.” 
+</blockquote>
 
 ― Śāntideva
 
@@ -42,10 +41,10 @@ Outside of our 1:1s, we'll have a few team meetings. We have a regular team hang
 My calendar can typically be pretty jam packed with meetings. However if it isn't an interview, 1:1 or vendor meeting I can likely move something if you need to chat face-to-face. Ping me regardless... a vendor meeting on my calendar may actually be optional.
 
 ## Nuances
-* I am hearing impaired. I've been hard of hearing my whole life and this can surface in bizarre ways. I might start talking too loudly. I read lips. I often mishear what people say. You can help out by making sure your lips are visible while we speak and double checking if my answer to your question feels "off". Also please feel free to DM me if you feel like my tone got a bit loud! :-) 
+* __I am hearing impaired__. I've been hard of hearing my whole life and this can surface in bizarre ways. I might start talking too loudly. I read lips. I often mishear what people say. You can help out by making sure your lips are visible while we speak and double checking if my answer to your question feels "off". Also please feel free to DM me if you feel like my tone got a bit loud! :-) 
 
-* I can be easily distracted. If it feels like my attention is elsewhere during a meeting, please speak up. I really try to avoid doing this, but it happens.
+* __I can be easily distracted__. If it feels like my attention is elsewhere during a meeting, please speak up. I really try to avoid doing this, but it happens.
 
-* I occasionally work crazy hours. Sometimes I'll be up at 4am or online over the weekend. This is my choice and please don't see it as representative of behavior to emulate. While you might see me online at crazy hours I do maintain a healthy work life balance and ask you do the same. It's really important.
+* __I am big on work/life balance__. Most people will work between 8am (the earliest) and 6pm (the latest). Since we're a 100% remote team distributed across the globe there will always be people online in slack doing something. I recommend sharing your "core hours" and I won't expect to communicate with you outside these hours unless it is an emergency. I try not to respond to e-mails or slack during my off-hours and **under no circumstances expect you to, unless it’s an emergency*****.
 
 
